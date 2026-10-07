@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190" role="img" aria-label="Insurance Claim Automation · RAG pipeline">
+<style>.n{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;fill:#e6edf3}.h{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;fill:#58a6ff;letter-spacing:1px}.c{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:12px;fill:#8b949e}</style>
+<rect width="900" height="190" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="34" class="h">INSURANCE CLAIM AUTOMATION · RAG PIPELINE</text>
+<line x1="154" y1="92.0" x2="209" y2="92.0" stroke="#30363d" stroke-width="2"/>
+<path d="M202 87.0 L209 92.0 L202 97.0" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle r="5" fill="#3fb950"><animateMotion dur="5.5s" repeatCount="indefinite" calcMode="linear" keyPoints="0;1;1" keyTimes="0;0.250;1" path="M154 92.0 L209 92.0"/><animate attributeName="opacity" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="1;0" keyTimes="0;0.250"/></circle>
+<line x1="333" y1="92.0" x2="388" y2="92.0" stroke="#30363d" stroke-width="2"/>
+<path d="M381 87.0 L388 92.0 L381 97.0" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle r="5" fill="#3fb950"><animateMotion dur="5.5s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.250;0.500;1" path="M333 92.0 L388 92.0"/><animate attributeName="opacity" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.250;0.500"/></circle>
+<line x1="512" y1="92.0" x2="567" y2="92.0" stroke="#30363d" stroke-width="2"/>
+<path d="M560 87.0 L567 92.0 L560 97.0" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle r="5" fill="#3fb950"><animateMotion dur="5.5s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.500;0.750;1" path="M512 92.0 L567 92.0"/><animate attributeName="opacity" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.500;0.750"/></circle>
+<line x1="691" y1="92.0" x2="746" y2="92.0" stroke="#30363d" stroke-width="2"/>
+<path d="M739 87.0 L746 92.0 L739 97.0" fill="none" stroke="#30363d" stroke-width="2"/>
+<circle r="5" fill="#3fb950"><animateMotion dur="5.5s" repeatCount="indefinite" calcMode="linear" keyPoints="0;0;1;1" keyTimes="0;0.750;1.000;1" path="M691 92.0 L746 92.0"/><animate attributeName="opacity" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.750;1.000"/></circle>
+<rect x="30" y="60" width="124" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="#58a6ff;#30363d" keyTimes="0;0.125"/></rect>
+<text x="92" y="88.0" class="n" text-anchor="middle">Medical bill</text>
+<text x="92" y="104.0" class="n" text-anchor="middle">(PDF)</text>
+<rect x="209" y="60" width="124" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="#30363d;#58a6ff;#30363d" keyTimes="0;0.125;0.375"/></rect>
+<text x="271" y="88.0" class="n" text-anchor="middle">Information</text>
+<text x="271" y="104.0" class="n" text-anchor="middle">extraction</text>
+<rect x="388" y="60" width="124" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="#30363d;#58a6ff;#30363d" keyTimes="0;0.375;0.625"/></rect>
+<text x="450" y="88.0" class="n" text-anchor="middle">FAISS policy</text>
+<text x="450" y="104.0" class="n" text-anchor="middle">retrieval</text>
+<rect x="567" y="60" width="124" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="#30363d;#58a6ff;#30363d" keyTimes="0;0.625;0.875"/></rect>
+<text x="629" y="88.0" class="n" text-anchor="middle">LLM</text>
+<text x="629" y="104.0" class="n" text-anchor="middle">reasoning</text>
+<rect x="746" y="60" width="124" height="64" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"><animate attributeName="stroke" dur="5.5s" repeatCount="indefinite" calcMode="discrete" values="#30363d;#58a6ff" keyTimes="0;0.875"/></rect>
+<text x="808" y="88.0" class="n" text-anchor="middle">Approval /</text>
+<text x="808" y="104.0" class="n" text-anchor="middle">rejection report</text>
+<text x="30" y="166" class="c">Policy documents are embedded (OpenAI Embeddings) and indexed in FAISS; retrieved requirements and exclusions ground the LLM</text>
+</svg>

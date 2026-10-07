@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 244" width="900" height="244" role="img" aria-label="Project results">
+<style>.h{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;fill:#58a6ff;letter-spacing:1px}.l{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:14px;fill:#e6edf3}.v{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:16px;font-weight:700;fill:#fff}.m{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;font-size:12px;fill:#8b949e}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#3fb950"/></linearGradient></defs>
+<rect width="900" height="244" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="34" class="h">RESULTS</text>
+<text x="30" y="83" class="l">NetPulse AI · RCA accuracy</text>
+<rect x="330" y="70" width="420" height="16" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="330" y="70" width="0" height="16" rx="8" fill="url(#g)"><animate attributeName="width" values="0;323;323" keyTimes="0;.35;1" dur="7s" calcMode="spline" keySplines=".3 0 .2 1;0 0 1 1" repeatCount="indefinite"/></rect>
+<text x="766" y="84" class="v">~77%</text>
+<text x="330" y="104" class="m">on my evaluation dataset</text>
+<text x="30" y="138" class="l">Millet leaf classifier · validation accuracy</text>
+<rect x="330" y="125" width="420" height="16" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="330" y="125" width="0" height="16" rx="8" fill="url(#g)"><animate attributeName="width" values="0;361;361" keyTimes="0;.35;1" dur="7s" calcMode="spline" keySplines=".3 0 .2 1;0 0 1 1" repeatCount="indefinite"/></rect>
+<text x="766" y="139" class="v">~86%</text>
+<text x="330" y="159" class="m">VGG19 transfer learning</text>
+<rect x="30" y="182" width="280" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="46" y="208" class="v">~670</text>
+<text x="98" y="208" class="m">pothole images (train/val/test)</text>
+<rect x="330" y="182" width="280" height="42" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="346" y="208" class="v">~1,212</text>
+<text x="418" y="208" class="m">leaf images · 6 classes</text>
+</svg>
