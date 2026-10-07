@@ -41,7 +41,7 @@ I build practical AI systems that combine machine learning, large language model
 
 ## 🚀 Featured Projects
 
-### 1. 🌐 [NetPulse AI](LINK_NETPULSE): Predictive Network Assurance & Root-Cause Analysis
+### 1. 🌐 [NetPulse AI](https://github.com/abhishektech21/netpulse-ai): Predictive Network Assurance & Root-Cause Analysis
 
 An AI-powered network assurance system that combines ML, network telemetry, topology-aware reasoning, and Generative AI to detect anomalies and support root-cause analysis and troubleshooting.
 
