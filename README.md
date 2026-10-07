@@ -59,7 +59,7 @@ An AI-powered network assurance system that combines ML, network telemetry, topo
 
 ---
 
-### 2. 📄 [AI-Powered Insurance Claim Automation](LINK_INSURANCE)
+### 2. 📄 [AI-Powered Insurance Claim Automation](https://github.com/abhishektech21/InsuranceClaimAutomation)
 
 Automates insurance claim verification by extracting information from medical bills and validating each claim against policy requirements and exclusions using RAG.
 
