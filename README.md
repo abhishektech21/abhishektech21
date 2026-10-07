@@ -94,7 +94,7 @@ Real-time detection of potholes, cracks, bumps, and other road anomalies. Traine
 </td>
 <td width="33%" valign="top">
 
-**🏈 [NFL Run vs Pass Prediction](LINK_NFL)**
+**🏈 [NFL Run vs Pass Prediction](https://github.com/abhishektech21/NFL-Big-Data-Bowl-2025-Exploratory-Data-Analysis)**
 
 Predicts whether a play is a run or pass from play, player, game, and tracking data. Basis of my published paper.
 
