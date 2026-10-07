@@ -113,7 +113,7 @@ Transfer-learning classifier across 6 disease classes (~1,212 images) using VGG1
 </tr>
 </table>
 
-<sub>🗄️ Also: [Online Shopping System](LINK_SHOP), a MySQL DBMS project covering ER design, relational modeling, and SQL queries.</sub>
+<sub>🗄️ Also: [Online Shopping System](https://github.com/abhishektech21/ShopSmart), a MySQL DBMS project covering ER design, relational modeling, and SQL queries.</sub>
 
 ---
 
