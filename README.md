@@ -9,7 +9,7 @@
 Computer Science & Engineering (AI) student building practical AI systems with Python
 
 <a href="https://www.linkedin.com/in/abhishek-timmanagoudar-a29087308/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="abhishektgoudar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="abhishektgoudar@gmail.com"></a>
+<a href="mailto:abhishektgoudar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"></a>
 
 🟢 **Seeking internships in AI Engineering · ML · GenAI · Computer Vision · RAG · AI Agents**
 
