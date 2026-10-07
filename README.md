@@ -9,7 +9,7 @@
 Computer Science & Engineering (AI) student building practical AI systems with Python
 
 <a href="https://www.linkedin.com/in/abhishek-timmanagoudar-a29087308/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"></a>
+<a href="abhishektgoudar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Email"></a>
 
 🟢 **Seeking internships in AI Engineering · ML · GenAI · Computer Vision · RAG · AI Agents**
 
@@ -164,6 +164,6 @@ KLE Technological University, Dr. M. S. Sheshgiri College of Engineering & Techn
 I'm looking for internships in **AI Engineering · Machine Learning · Generative AI · Computer Vision · RAG · AI Agents**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abhishek-timmanagoudar-a29087308/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abhishektgoudar@gmail.com)
 
 </div>
